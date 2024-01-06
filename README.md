@@ -9,13 +9,13 @@
 Perform data analtyics on Uber Cab data and create dashboard with insights from the given dataset.
 
 ## Technology Stack
-Programming Language - Python
-Google Cloud Platform
-Google Storage
-Compute Instance
-BigQuery
-Looker Studio
-Mage ETL Data Pipeine Tool - https://www.mage.ai/
+Programming Language - Python <br />
+Google Cloud Platform <br />
+Google Storage <br />
+Compute Instance <br />
+BigQuery <br />
+Looker Studio <br />
+Mage ETL Data Pipeine Tool - https://www.mage.ai/ <br />
 
 
 ## Step 1 : Architecture Diagram
