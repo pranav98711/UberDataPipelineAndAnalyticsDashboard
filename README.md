@@ -31,6 +31,7 @@ Mage ETL Data Pipeine Tool - https://www.mage.ai/
 
 ## Step 3: Writing the Transformation code in Python
 
+[TransformationCode.webm](https://github.com/pranav98711/UberDataPipelineAndAnalyticsDashboard/assets/58882791/baad9513-3fed-46e7-93d7-825e16135314)
 
 ## Step 4: Create a project and a bucket on the Google Cloud Platform, upload the data, select the server and set the appropriate permissions.
 
@@ -58,13 +59,14 @@ b. Deploy Compute Engine Instance:
 ## Step 6: Connect the VM to Mage Project using SSH Linux Terminal and create a mage project (also download the necessary dependencies). Create a data pipeline using Mage Blocks like data loader, transformer, and exporters. Add your transformation code to the data transformer with the necessary changes.
 
 
-![image](https://github.com/pranav98711/UberDataPipelineAndAnalyticsDashboard/assets/58882791/e0580009-3ab0-4963-bc45-e1a39c953889)
+![image](https://github.com/pranav98711/UberDataPipelineAndAnalyticsDashboard/assets/58882791/5ea7f3d5-9729-474a-bb98-e83d20625d67)
 
-![image](https://github.com/pranav98711/UberDataPipelineAndAnalyticsDashboard/assets/58882791/f7e9d396-9944-4008-9346-96cd3a6a17c2)
+![image](https://github.com/pranav98711/UberDataPipelineAndAnalyticsDashboard/assets/58882791/0834581e-7fa7-4407-af10-60d93dcb0b10)
 
-![image](https://github.com/pranav98711/UberDataPipelineAndAnalyticsDashboard/assets/58882791/fdf78740-ebe8-4ef9-85d0-85ba1db9763e)
+![image](https://github.com/pranav98711/UberDataPipelineAndAnalyticsDashboard/assets/58882791/9dbc6f04-e91b-43cf-abcc-66a31b4a69d6)
 
-![image](https://github.com/pranav98711/UberDataPipelineAndAnalyticsDashboard/assets/58882791/58b32e05-538b-4a9d-b27d-7210a22b82c2)
+![image](https://github.com/pranav98711/UberDataPipelineAndAnalyticsDashboard/assets/58882791/07b4324b-9c47-48b7-bf98-ddfab86efc6d)
+
 
 ## Step 7: Once, the pipeline is ready, add GCP credentials credentials to the configuration 'io_config.yaml' file. You can easily get the credentials from the APIs and Services tab from Google Console.
 
