@@ -1,8 +1,7 @@
 # Uber ETL Data Pipeline and Analytics Dashboard | Python | Google Cloud Storage | Mage | ETL | Big Query | Looker
 
 
-![image](https://private-user-images.githubusercontent.com/81063457/257497004-2f929820-68b1-4b3c-9d66-87bdc3f757bf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQxNzQxNDcsIm5iZiI6MTcwNDE3Mzg0NywicGF0aCI6Ii84MTA2MzQ1Ny8yNTc0OTcwMDQtMmY5Mjk4MjAtNjhiMS00YjNjLTlkNjYtODdiZGMzZjc1N2JmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTAyVDA1MzcyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJhNjM0OTcxMWNiMTFkZDI1ODI5MmQ2Y2E0Y2FlYzlhOWVkMWNhY2FmZjEwZjE2YjY4ZTljOGIxOTQ1YTM3NTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.tLdLvuHNN4BvGi3TTXU1KivX43luuQWlaMNYjqomL0Q
-)
+![image](https://github.com/pranav98711/UberDataPipelineAndAnalyticsDashboard/assets/58882791/1728f1fb-95e2-4079-a1fd-2cbab43d9ad2)
 
 
 
@@ -31,7 +30,6 @@ Mage ETL Data Pipeine Tool - https://www.mage.ai/
 ![image](https://github.com/pranav98711/UberDataPipelineAndAnalyticsDashboard/blob/main/Images%26Vids/257492171-629e317a-7deb-48dc-9afa-f920f89ae636.png)
 
 ## Step 3: Writing the Transformation code in Python
-
 
 
 ## Step 4: Create a project and a bucket on the Google Cloud Platform, upload the data, select the server and set the appropriate permissions.
@@ -72,8 +70,12 @@ b. Deploy Compute Engine Instance:
 
 ## Step 8: Using BigQuery to query the data, perform ETL operations so that data can be used for Data Analysis like creating dashboards, reporting, etc.
 
+[71d4003d-485d-44d2-bd85-2608831adc48.webm](https://github.com/pranav98711/UberDataPipelineAndAnalyticsDashboard/assets/58882791/5151570e-95ec-4111-84fd-40a1e6b2cb29)
+
 
 ## Step 9: Finally, create a dashboard using any dashboarding/reporting software, I used Looker Studio but we can also use other tools like Power BI, Tableau, Qlik, etc.
+
+![image](https://github.com/pranav98711/UberDataPipelineAndAnalyticsDashboard/assets/58882791/640d5159-6e93-4743-8ccb-6530b7199109)
 
 ![image](https://github.com/pranav98711/UberDataPipelineAndAnalyticsDashboard/assets/58882791/9dec9a73-0216-4d6f-a905-fa51343fd6ac)
 
